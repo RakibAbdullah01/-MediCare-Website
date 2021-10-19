@@ -1,0 +1,50 @@
+[
+    {
+        "id":"doc-1",
+        "name":"Prof. Dr. Jalal Uddin",
+        "specialty":"Senior Consultant, Cardiac Surgery",
+        "degree":"MBBS, MS (Cardiovascular Surgery), Fellow (Cardiothoracic Surgery) UK, PhD (Cardiovascular Surgery), Bulgaria",
+        "details":"Prof. Dr. Jalal Uddin, with 25 years of experience in Cardiac Surgery is executing Open Heart Surgery, Coronary Artery Bypass Grafting (CABG), Congenital Heart Surgery and Combine Procedure of Coronary and Vascular Surgery at Square Hospital.Graduating from Rajshahi Medical College, Dr. Jalal Uddin joined there as Assistant Surgeon to perform in the department of Cardiac Surgery. Then, he completed PhD in Cardiovascular Surgery from National Center of Cardiovascular Diseases, Bulgaria. He also worked as a research Fellow in the Department of Cardiothoracic Surgery in St. Thomas Hospital, London, UK.",
+        "img":"https://i.ibb.co/DL9Rjd5/1.jpg"
+    },
+    {
+        "id":"doc-2",
+        "name":"Associate Professor Dr. S. M. Anwar Sadat",
+        "specialty":"Consultant, Dental & Maxillofacial Surgery",
+        "degree":"BDS, MCPS, FCPS, MS (Oral & Maxillofacial Surgery), FDSRCPS Glasgow",
+        "details":"Dr. S. M. Anwar Sadat passed Bachelor of Dental Surgery (BDS) from Dental Unit of Chittagong Medical College under Chittagong University in 1997. He passed MCPS in Dental Surgery from BCPS in 2003; FCPS in Oral & Maxillofacial Surgery FIRST TIME in Bangladesh from BCPS in 2005. He also did his masters (MS) in same discipline from Dhaka Dental College under Dhaka University in 2009.Recently in 2021, Dr. Anwar Sadat has been awarded FDSRCPS from Glasgow, United Kingdom for his excellent academic, research and clinical contribution to the dentistry of Bangladesh.",
+        "img":"https://i.ibb.co/ZK0ZKfY/2.png"
+    },
+    {
+        "id":"doc-3",
+        "name":"Dr. Subrata Kumar Barai",
+        "specialty":"Oral & Dental Surgeon",
+        "degree":"BDS, Advanced training in Dental Surgery (India), Dental Implant (India)",
+        "details":"Dr. Subrata Kumar Barai graduated from City Dental College under the University of Dhaka in 2003. After completing his internship he dedicated his training in the field of General Dentistry. He completed one year Post Graduation Training on Oral & Maxillofacial Surgery from BSMMU. Then he joined as a Medical Officer at HCDP of Diabetic Association of Bangladesh in 2006. During his professional service he achieved advanced training on Dental Surgery and Dental Implant Prosthesis from CMC Vellore, India. He is specialist in dealing with different oral and dental diseases, artificial replacement of missing teeth such as crown, bridge, implant & maxillofacial prosthesis and also expert in high tech endodontic procedures like root canal treatment & endodontic surgery. He joins Square Hospital as a highly skilled Oral & Dental Surgeon.",
+        "img":"https://i.ibb.co/XX7tr44/3.jpg"
+    },
+    {
+        "id":"doc-4",
+        "name":"Professor Dr. Sufia Nasrin Rita",
+        "specialty":"Consultant, Dental Surgery & Orthodontics",
+        "degree":"BDS, FCPS (Orthodontics & Dentofacial Orthopedics)",
+        "details":"Professor Dr. Sufia Nasrin Rita passed Bachelor of Dental Surgery (BDS) from Dental Unit of Chittagong Medical College under Chittagong University in 2000. After training and research, she passed FCPS in Orthodontics & Dentofacial Orthopedics FIRST TIME in Bangladesh from Bangladesh College of Physicians and Surgeons (BCPS) in 2007. She gained different medical and dental skills by doing extensive training on different subjects of dentistry.Professor Rita is related to many clinical and academic activities by delivering lectures, developing course curriculum for students and dental doctors and she is the question setter, moderator and examiner of BDS, MCPS, FCPS examinations. She presented on dentistry and orthodontics in several scientific conferences and published 25 scientific articles in recognized reputed journals. She used to deliver awareness speech and treatment advices regularly in Televisions and social medias.",
+        "img":"https://i.ibb.co/S6PBVdd/4.jpg"
+    },
+    {
+        "id":"doc-5",
+        "name":"Dr. Nurunnahar Mawla",
+        "specialty":" Associate Consultant, Microbiology & Infection Control",
+        "degree":"MBBS, M.Phil (Microbiology)",
+        "details":"Dr. Nurunnahar Mawla obtains MBBS from Chittagong Medical College in 1997 and completed her Internship in the same institution. She has got her M Phil in Microbiology from Sir Salimullah Medical College in 2007. Earlier she worked as Medical officer in different clinics of Dhaka and as a lecturer in State college of Health Science as well. After achieving the post graduation she served ICDDR,B  as Senior Scientific officer till 2010, then went to Vietnam where worked as Biologist in a French-Vietnam (FV) Hospital laboratory for one year. She then joined in Delta Medical College as Assistant Professor after coming back from Vietnam, worked for 4 years & promoted as Associate Professor there. At the same time she practiced her laboratory expertise in Eden Multi-care Hospital’s Laboratory. She participated some national and international conferences and presented Scientific papers. She has 3 original & 1 review articles published as First author, also many abstracts & articles as co-author. She has training on ‘Welcome Trust Advanced course Genomics and Clinical Microbiology’ in 2011 in UK, also on ISO 15189.",
+        "img":"https://i.ibb.co/dKNNpFv/5.jpg"
+    },
+    {
+        "id":"doc-6",
+        "name":"Prof. Dr. Zahidul Hasan",
+        "specialty":"Senior Consultant, Microbiology, Pathology & Laboratory Medicine",
+        "degree":"MBBS, M Phil, MPH",
+        "details":"Professor Zahidul Hasan has graduated from Dhaka Medical College. He obtained M. Phil in Microbiology from Bangabandhu Sheikh Mujib Medical University and MPH in Epidemiology from National Institute of Preventive and Social Medicine. In his early career he served in Tea gardens in Sylhet under Duncan brothers and Shaw Wallace Bangladesh respectively. He served as Professor and Head of the Department of Microbiology in Bangladesh Medical College, Dhaka and then served as Professor of Microbiology in Ibrahim Medical College. Finally in 2006 he joined Square Hospital as Consultant- Microbiology.",
+        "img":"https://i.ibb.co/2kmjrsR/6.jpg"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id":"service-1",
+        "name":"Home Care",
+        "description":"MediCare Health Care knows that every family will meet challenges in caring for their loved one – especially during old age or when an illness sets in. During these most trying times, our staff will be happy to visit you at home and provide you and your family with the utmost care and attention – as you would receive from a convalescent home care or a nursing care facility.",
+        "img":"https://i.ibb.co/QKR6Z5D/1.jpg"
+    },
+    {
+        "id":"service-2",
+        "name":"Nurse Staffing",
+        "description":"MediCare Health Care is able to connect nursing facilities to quality staff in our network. We have managed to pool the most qualified candidates in the state. These candidates have nursing degrees or have equivalent educational attainment as nursing assistants and aides. They are trained for deployment in various nursing settings. Our nurses, who are licensed and certified, have undergone thorough background and reference checking.",
+        "img":"https://i.ibb.co/BGvxBsR/2.jpg"
+    },
+    {
+        "id":"service-3",
+        "name":"Geriatric Care",
+        "description":"The transition to old age can be quite difficult for some people. Those tasks that used to be easy can be very challenging to complete – and an elderly person will need all the help they can get from their family members.However, the family may not be around or confinement in a nursing home may not be a viable option for the elderly.",
+        "img":"https://i.ibb.co/5rCymQD/3.jpg"
+    },
+    {
+        "id":"service-4",
+        "name":"Pediatric Care",
+        "description":"Caring for children is one of our specializations at MediCare Health Care Services. We have a staff of pediatric care nurses who can be deployed to different homes all over the state and care for young children while their parents or guardians are away from home – at work or running errands. Furthermore, pediatric care can be customized for children who have an illness or a disability which means they will require a higher level of care and attention from skilled specialists.",
+        "img":"https://i.ibb.co/McdWQrg/4.jpg"
+    },
+    {
+        "id":"service-5",
+        "name":"Physical Therapy",
+        "description":"The transition to old age can be quite difficult for some people. Those tasks that used to be easy can be very challenging to complete – and an elderly person will need all the help they can get from their family members.However, the family may not be around or confinement in a nursing home may not be a viable option for the elderly.",
+        "img":"https://i.ibb.co/Ln1n4jY/5.jpg"
+    },
+    {
+        "id":"service-6",
+        "name":"Occupational Therapy",
+        "description":"MediCare Health Care is able to connect nursing facilities to quality staff in our network. We have managed to pool the most qualified candidates in the state. These candidates have nursing degrees or have equivalent educational attainment as nursing assistants and aides. They are trained for deployment in various nursing settings. Our nurses, who are licensed and certified, have undergone thorough background and reference checking.",
+        "img":"https://i.ibb.co/8XY0dyr/6.jpg"
+    }
+]

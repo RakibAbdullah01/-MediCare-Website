@@ -1,0 +1,25 @@
+.banner {
+    position: relative;
+    overflow: hidden;
+    background: #fff;
+    background: url("https://i.ibb.co/V96g6Bg/slider-bg-1-3.jpg") no-repeat;
+    background-size: cover;
+    min-height: 550px;
+  }
+  
+  .banner .block {
+    padding: 80px 0px 160px;
+  }
+  
+  .banner .block h1 {
+    font-size: 60px;
+    line-height: 1.2;
+    letter-spacing: -1.2px;
+    text-transform: capitalize;
+    color: #fff;
+  }
+ 
+  .about-img img {
+    border-radius: 5px;
+    box-shadow: 0px 0px 30px 0px rgba(0, 42, 106, 0.1);
+  }
