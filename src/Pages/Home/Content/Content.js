@@ -49,11 +49,11 @@ const Content = () => {
                         </div>
                         <div className="col-lg-4">
                             <div className="ps-4 mt-4 mt-lg-0">
-                                <h2 className="text-success fs-1">Personal care <br/>& healthy living</h2>
+                                <h2 className="text-primary fs-1">Personal care <br/>& healthy living</h2>
                                 <p className="mt-4 mb-5">Our rapid access Saturday service for children and adolescents who have experienced sports and orthopaedic injuries and need fast access to diagnostics and treatment. </p>
 
                                 <Link to="/about" className="text-decoration-none">
-                                        <button className="btn btn-success d-flex justify-content-between align-items-center">
+                                        <button className="btn btn-primary d-flex justify-content-between align-items-center">
                                             <span>About Us</span> 
                                             <i className="ps-2 fas fa-chevron-right"></i>
                                         </button>

@@ -42,9 +42,14 @@ const Login = () => {const {handleEmailChange,handlePasswordChange,handleLoginBu
     }
 
     return (
-        <div className="text-primary bg-info rounded">
-            
-            <div className="row g-3 container mx-auto m-4 p-4">
+        <div className="text-primary  rounded">
+            <div className="row">
+                <div className="col-md-6">
+                <img className="img-fluid" src="https://i.ibb.co/tXT5ZqV/login.jpg" alt="" />
+
+                </div>
+                <div className="col-md-6">
+                <div className="row g-3 bg-info container mx-auto m-4">
 
                 <div className="d-flex text-start align-items-center">
                     <i className="far fa-user p-2 fs-4"></i>
@@ -82,7 +87,11 @@ const Login = () => {const {handleEmailChange,handlePasswordChange,handleLoginBu
                         </span>
                     </button>
                 </div>
+                </div>
+                </div>
             </div>
+            
+            
         </div>
     );
 };

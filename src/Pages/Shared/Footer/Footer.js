@@ -34,19 +34,19 @@ const Footer = () => {
                                     
                                 <ul className="list-unstyled text-start lh-35">
                                     <Link className="text-decoration-none" to="/service/service-1">
-                                        <li>Home Care</li>
+                                        <li className="text-primary fw-bold">Home Care</li>
                                     </Link>
                                     <Link className="text-decoration-none" to="/service/service-2">
-                                        <li>Nurse Staffing</li>
+                                        <li className="text-primary fw-bold">Nurse Staffing</li>
                                     </Link>
                                     <Link className="text-decoration-none" to="/service/service-3">
-                                        <li>Geriatric Care</li>
+                                        <li className="text-primary fw-bold">Geriatric Care</li>
                                     </Link>
                                     <Link className="text-decoration-none" to="/service/service-4">
-                                        <li>Pediatric Care</li>
+                                        <li className="text-primary fw-bold">Pediatric Care</li>
                                     </Link>
                                     <Link className="text-decoration-none" to="/service/service-5">
-                                        <li>Physical Therapy</li>
+                                        <li className="text-primary fw-bold">Physical Therapy</li>
                                     </Link> 
                                 </ul>
                             </div>
@@ -57,23 +57,23 @@ const Footer = () => {
 
                                 <ul className="list-unstyled text-start lh-35">
                                     <Link className="text-decoration-none" to="/about">
-                                        <li>About Us</li>
+                                        <li className="text-primary fw-bold">About Us</li>
                                     </Link> 
 
                                     <Link className="text-decoration-none" to="/contact">
-                                        <li>Contact Us</li>
+                                        <li className="text-primary fw-bold">Contact Us</li>
                                     </Link> 
 
                                     <Link className="text-decoration-none" to="/appoinment">
-                                        <li>Appoinnemt</li>
+                                        <li className="text-primary fw-bold">Appoinnemt</li>
                                     </Link> 
 
                                     <Link className="text-decoration-none" to="/login">
-                                        <li>Login</li>
+                                        <li className="text-primary fw-bold">Login</li>
                                     </Link> 
 
                                     <Link className="text-decoration-none" to="/about">
-                                        <li>About Us</li>
+                                        <li className="text-primary fw-bold">About Us</li>
                                     </Link> 
                                 </ul>
                             </div>
